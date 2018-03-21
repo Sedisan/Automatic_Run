@@ -1,6 +1,6 @@
 # Automatic_Run
-Are you fall in love with Linux' console, yet without reciprocity? Additionally, you don't get along with zsh or other variations of bash?  
-And want to compile and run cpp's file with one command? Try this. (Program compiles with c++11's standard, but you can simply change one number inside the file.)
+Are you fall in love with Linux' console, yet without reciprocity? Additionally, you don't get along with zsh or other variations of bash?
+And want to compile and run cpp's file with one command? Try this. (Program default compiles with c++11's standard, but you can simply change one number inside the file.)
 ```
 ./cpprun.sh NAMEOFYOURPROGRAM.cpp
 ```
